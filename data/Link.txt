@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images/download?datasetVersionNumber=1
+
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
